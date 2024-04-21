@@ -7,15 +7,6 @@
 
 - 👨‍💻 You can know me better in [https://tomasjorcincp.netlify.app/](https://tomasjorcincp.netlify.app/)
 
-<style>
-  .left-align {
-    text-align: left;
-  }
-
-  .right-align {
-    text-align: right;
-  }
-</style>
 
 <h3 align="left">Languages ​​and tools that i've used:</h3>
 <div class="left-align">
