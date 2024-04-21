@@ -38,3 +38,10 @@
   <h3 align="center">Others</h3>
   <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 </div></td></tr></table>
+
+<h2 align="center" decoration="underline">Contact me:</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/tom%C3%A1s-jorcin-044653202/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
