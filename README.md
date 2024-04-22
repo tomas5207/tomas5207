@@ -2,14 +2,14 @@
 <h3 align="center">An Analyst Programmer from Uruguay 🇺🇾</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dssiecfn9/image/upload/v1713659416/banner_l5kjhm.png" alt="Banner Description" width="100%">
+  <img src="[https://res.cloudinary.com/dssiecfn9/image/upload/v1713659416/banner_l5kjhm.png](https://res.cloudinary.com/dssiecfn9/image/upload/v1713809584/banner_1_aehs12.png)" alt="Banner Description" width="100%">
 </p>
 
 <h2 align="center" decoration="underline">About me:</h2>
 - 📖 I began my career as a developer at CTC Rosario, an institute endorsed by CLAEH University where I received my degree as a Programmer Analyst.
 - 👶🏻 I was born in 31/03/2001 in Rosario, Colonia, Uruguay
-- 🌴 Actually i´m unemployed, searching my first <strong>FORMAL</strong> working experience
-- ⚙️ Throughout my career, i have learned new things while carrying out projects that have given me working experience.
+- 🌱 I started learning and working in the world of programming since 2019
+- ⚙️ Into my experience working in Back and Front End i feeling more comfortable with Back End
 - 👨‍💻 You can know me better in [https://tomasjorcincp.netlify.app/](https://tomasjorcincp.netlify.app/)
 
 
@@ -49,5 +49,7 @@
 <a href="https://www.linkedin.com/in/tom%C3%A1s-jorcin-044653202/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://discord.gg/TJSilverino#6232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TJSilverino#6232" height="30" width="40" /></a>
+<a href="https://twitter.com/JorcinTomas" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>
