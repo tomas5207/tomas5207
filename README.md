@@ -6,11 +6,14 @@
 </p>
 
 <h2 align="center" decoration="underline">About me:</h2>
-- 📖 I began my career as a developer at CTC Rosario, an institute endorsed by CLAEH University where I received my degree as a Programmer Analyst.
-- 👶🏻 I was born in 31/03/2001 in Rosario, Colonia, Uruguay
-- 🌱 I started learning and working in the world of programming since 2019
-- ⚙️ Into my experience working in Back and Front End i feeling more comfortable with Back End
-- 👨‍💻 You can know me better in [https://tomasjorcincp.netlify.app/](https://tomasjorcincp.netlify.app/)
+<table>
+<tr>- 📖 I began my career as a developer at CTC Rosario, an institute endorsed by CLAEH University where I received my degree as a Programmer Analyst.</tr>
+<tr>- 👶🏻 I was born in 31/03/2001 in Rosario, Colonia, Uruguay</tr>
+<tr>- 🌱 I started learning and working in the world of programming since 2019</tr>
+<tr>- ⚙️ Into my experience working in Back and Front End i feeling more comfortable with Back End</tr>
+<tr>- 👨‍💻 You can know me better in [https://tomasjorcincp.netlify.app/](https://tomasjorcincp.netlify.app/)</tr>
+</table>
+
 
 
 <h2 align="center" decoration="underline">Languages ​​and tools that i've used:</h2>
