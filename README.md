@@ -2,7 +2,7 @@
 <h3 align="center">An Analyst Programmer from Uruguay 🇺🇾</h3>
 
 <p align="center">
-  <img src="[https://res.cloudinary.com/dssiecfn9/image/upload/v1713659416/banner_l5kjhm.png](https://res.cloudinary.com/dssiecfn9/image/upload/v1713809584/banner_1_aehs12.png)" alt="Banner Description" width="100%">
+  <img src="https://res.cloudinary.com/dssiecfn9/image/upload/v1713809584/banner_1_aehs12.png" alt="Banner Description" width="100%">
 </p>
 
 <h2 align="center" decoration="underline">About me:</h2>
