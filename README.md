@@ -11,6 +11,7 @@
 <tr><td>- 👶🏻 I was born in 31/03/2001 in Rosario, Colonia, Uruguay</td></tr>
 <tr><td>- 🌱 I started learning and working in the world of programming since 2019</td></tr>
 <tr><td>- ⚙️ Into my experience working in Back and Front End i feeling more comfortable with Back End</td></tr>
+<tr><td>- 💬 My native language is Spanish, but I can also speak English. You can see my English level here https://cert.efset.org/who5SM </td></tr>
 <tr><td>- 👨‍💻 You can know me better in https://tomasjorcincp.netlify.app/</td></tr>
 </table>
 
